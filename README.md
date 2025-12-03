@@ -1,2 +1,3 @@
-# gPCA
-Probabilistic Generalised PCA
+# BRCA
+
+Bayesian Residual Component Analysis
